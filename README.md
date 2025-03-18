@@ -9,8 +9,15 @@
 📌 **참여한 프로젝트**
 
 - [LED_WAR_GAME](https://github.com/GH6679/web_LED_wargame)
+- [LED_Matrix_CTF](https://github.com/GH6679/LED_Matrix_CTF)
+- [DevSecOps 팀 프로젝트](https://github.com/jinyeong001/DevSecOps.Full-Project)
 
 📌 **개인 프로젝트**
+
+- [COM MANG SHOP](https://github.com/GH6679/ShopPagePersonalProject)
+
+
+
 
 ## 🔧 기술 스택
 
